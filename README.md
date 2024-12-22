@@ -1,5 +1,6 @@
 ![logo](https://github.com/karanakshat05/karanakshat05/blob/main/github-header-image.png)
 <h3 align="center">🚀 Innovating with AI, Code, and Vision | Machine Learning Enthusiast | Building Scalable Solutions 🌟</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanakshat05&label=Profile%20views&color=0e75b6&style=flat" alt="karanakshat05" /> </p>
 
