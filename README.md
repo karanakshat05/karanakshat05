@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Deep Learning and Data Structures**
 
-- 📫 How to reach me **karanashu60@gmail.com**
+- 📫 How to reach me **kumarakshat1706@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
