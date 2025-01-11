@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanakshat05&label=Profile%20views&color=0e75b6&style=flat" alt="karanakshat05" /> </p>
 
-- 🌱 I’m currently learning **Flask, Pytorch, Neural Networks and Deep Learning**
+- 🌱 I’m currently learning **Neural Networks and Deep Learning, AutoEncoders, Pytorch, Tensorflow,  Flask,**
 
-- 💬 Ask me about **Machine Learning and Data Structures**
+- 💬 Ask me about **Deep Learning and Data Structures**
 
 - 📫 How to reach me **karanashu60@gmail.com**
 
